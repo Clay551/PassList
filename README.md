@@ -1,4 +1,4 @@
-# Password-List-Generator
+# Password-List-Generator V1.4
 ## Run : 
 ### Linux
 ```
